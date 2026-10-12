@@ -5,8 +5,8 @@ class SessionHop < Formula
   homepage "https://github.com/iodic/session-hop"
   url "https://github.com/iodic/session-hop.git",
       using:    :git,
-      tag:      "v0.2.0",
-      revision: "b7f5ccaf3c0876a9dce287ee31bd965cce48fd17"
+      tag:      "v0.2.1",
+      revision: "36ad4c5f82ed3fb163e7e0b3d4d5c50e028d472a"
 
   depends_on "python@3.14"
 
